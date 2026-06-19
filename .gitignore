@@ -1,0 +1,7 @@
+# Compiled JavaScript output
+*.js
+*.js.map
+*.d.ts
+
+# Keep tsconfig
+!tsconfig.json
